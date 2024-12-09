@@ -1,4 +1,4 @@
-# Yüz Tanıma ile Yoklama Uygulaması
+# Dekosis - KYS (Yüz Tanıma ile Yoklama Uygulaması)
 
 Bu proje, **Emgu CV** kütüphanesi kullanılarak geliştirilmiş bir yüz tanıma ve yoklama uygulamasıdır. Uygulama, kamera ile yüz tanıma yaparak yoklama işlemini hızlı ve kolay bir şekilde gerçekleştirir.
 
