@@ -1,0 +1,32 @@
+C:\Users\Aspar\source\repos\Dekosis - KYS\bin\Debug\Dekosis - KYS.exe.config
+C:\Users\Aspar\source\repos\Dekosis - KYS\bin\Debug\Dekosis - KYS.exe
+C:\Users\Aspar\source\repos\Dekosis - KYS\bin\Debug\Dekosis - KYS.pdb
+C:\Users\Aspar\source\repos\Dekosis - KYS\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Aspar\source\repos\Dekosis - KYS\bin\Debug\Emgu.CV.dll
+C:\Users\Aspar\source\repos\Dekosis - KYS\bin\Debug\Emgu.CV.GPU.dll
+C:\Users\Aspar\source\repos\Dekosis - KYS\bin\Debug\Emgu.CV.ML.dll
+C:\Users\Aspar\source\repos\Dekosis - KYS\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Aspar\source\repos\Dekosis - KYS\bin\Debug\Emgu.Util.dll
+C:\Users\Aspar\source\repos\Dekosis - KYS\bin\Debug\itextsharp.dll
+C:\Users\Aspar\source\repos\Dekosis - KYS\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Aspar\source\repos\Dekosis - KYS\bin\Debug\Emgu.CV.xml
+C:\Users\Aspar\source\repos\Dekosis - KYS\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Aspar\source\repos\Dekosis - KYS\bin\Debug\Emgu.Util.xml
+C:\Users\Aspar\source\repos\Dekosis - KYS\bin\Debug\itextsharp.xml
+C:\Users\Aspar\source\repos\Dekosis - KYS\obj\Debug\Dekosis - KYS.csproj.AssemblyReference.cache
+C:\Users\Aspar\source\repos\Dekosis - KYS\obj\Debug\Dekosis___KYS.Form1.resources
+C:\Users\Aspar\source\repos\Dekosis - KYS\obj\Debug\Dekosis___KYS.Form2.resources
+C:\Users\Aspar\source\repos\Dekosis - KYS\obj\Debug\Dekosis___KYS.Form3.resources
+C:\Users\Aspar\source\repos\Dekosis - KYS\obj\Debug\Dekosis___KYS.Form4.resources
+C:\Users\Aspar\source\repos\Dekosis - KYS\obj\Debug\Dekosis___KYS.Form5.resources
+C:\Users\Aspar\source\repos\Dekosis - KYS\obj\Debug\Dekosis___KYS.Form6.resources
+C:\Users\Aspar\source\repos\Dekosis - KYS\obj\Debug\Dekosis___KYS.Properties.Resources.resources
+C:\Users\Aspar\source\repos\Dekosis - KYS\obj\Debug\Dekosis - KYS.csproj.GenerateResource.cache
+C:\Users\Aspar\source\repos\Dekosis - KYS\obj\Debug\Dekosis - KYS.csproj.CoreCompileInputs.cache
+C:\Users\Aspar\source\repos\Dekosis - KYS\obj\Debug\Dekosis .D54D14E1.Up2Date
+C:\Users\Aspar\source\repos\Dekosis - KYS\obj\Debug\Dekosis - KYS.exe
+C:\Users\Aspar\source\repos\Dekosis - KYS\obj\Debug\Dekosis - KYS.pdb
+C:\Users\Aspar\source\repos\Dekosis - KYS\bin\Debug\Dekosis - KYS.exe.manifest
+C:\Users\Aspar\source\repos\Dekosis - KYS\bin\Debug\Dekosis - KYS.application
+C:\Users\Aspar\source\repos\Dekosis - KYS\obj\Debug\Dekosis - KYS.exe.manifest
+C:\Users\Aspar\source\repos\Dekosis - KYS\obj\Debug\Dekosis - KYS.application
